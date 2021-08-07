@@ -1,0 +1,16 @@
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\bin\Debug\net5.0\Basic_Calculator.exe
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\bin\Debug\net5.0\Basic_Calculator.deps.json
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\bin\Debug\net5.0\Basic_Calculator.runtimeconfig.json
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\bin\Debug\net5.0\Basic_Calculator.runtimeconfig.dev.json
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\bin\Debug\net5.0\Basic_Calculator.dll
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\bin\Debug\net5.0\ref\Basic_Calculator.dll
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\bin\Debug\net5.0\Basic_Calculator.pdb
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\Basic_Calculator.csproj.AssemblyReference.cache
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\Basic_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\Basic_Calculator.AssemblyInfoInputs.cache
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\Basic_Calculator.AssemblyInfo.cs
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\Basic_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\Basic_Calculator.dll
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\ref\Basic_Calculator.dll
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\Basic_Calculator.pdb
+C:\Users\glenn\OneDrive\Documents\Coding\c# programming\Basic_Calculator\obj\Debug\net5.0\Basic_Calculator.genruntimeconfig.cache
